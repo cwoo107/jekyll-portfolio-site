@@ -1,6 +1,6 @@
 basic_settings:
-  site_title: Index
-  site_tagline: A minimal, fixed sidebar grid portfolio Jekyll theme.
+  site_title: GHCC Art Ministry
+  site_tagline: Our Purpose is to glorify God by making disciples who will impact every area of the world for Christ through art.
   favicon_image: /images/favicon.png
 
 header_settings:
@@ -9,9 +9,9 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Projects'
+    - title: 'Visual'
       url: '/'
-    - title: 'Blog'
+    - title: 'Poetry'
       url: '/blog/'
     - title: 'About'
       url: '/about'
